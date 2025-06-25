@@ -1,0 +1,4 @@
+# Ignore large or local files
+*.mp4
+*.pt
+__pycache__/
