@@ -1,0 +1,7 @@
+player-reid-project/
+├── 15sec_input_720p.mp4        <-- Sample input video 
+├── output_tracked.mp4          <-- Compressed tracked video
+├── README.md                   <-- Project documentation
+├── requirements.txt            <-- Dependencies
+├── tracker.py                  <-- Full Python script (YOLO + DeepSORT)
+└── .gitignore                  <-- Ignore large files like models/videos
